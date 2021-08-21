@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&theme=radical)
+
+
 - 👋 Hi, I’m @dazedmind
 - 👀 I’m interested in Video Games and Technology
 - 🌱 I’m currently learning JavaScript!
