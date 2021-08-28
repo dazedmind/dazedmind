@@ -4,9 +4,8 @@
 
 <div align=center>
 <h3>My Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&border_color=a5a072">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&border_color=a5a072&bg_color=111111">
+<img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&hide_border=true&bg_color=111111">
 </div>
 
 <div align=center>
