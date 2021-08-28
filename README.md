@@ -1,10 +1,34 @@
+<div align=center>
+  <h3 color=333333>Hi I am John Allen Troy Valena and an aspiring web developer.</3>
+</div>
 
-![my stats](https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&border_color=a5a072)
+<div align=center>
+<h2>My Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&border_color=a5a072">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&border_color=a5a072&bg_color=111111">
+</div>
 
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&border_color=a5a072&bg_color=111111)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <h3>Tech Used</h3>
+  <img src="https://img.shields.io/badge/OS-ZorinOs-informational?style=flat&logo=linux&logoColor=white&color=d3a04d&labelColor=333333">
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d3a04d&labelColor=333333">
+  <img src="https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=d3a04d&labelColor=333333">
+  <img src="https://img.shields.io/badge/Editor-Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=d3a04d&labelColor=333333">
+</div>
 
-![](https://img.shields.io/badge/OS-ZorinOs-informational?style=flat&logo=linux&logoColor=white&color=d3a04d&labelColor=333333)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d3a04d&labelColor=333333)
-![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=d3a04d&labelColor=333333)
-![](https://img.shields.io/badge/Editor-Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=d3a04d&labelColor=333333)
-
+<h3 align="center">Get in touch with me!</h3>
+<p align="center">
+   <a href="https://instagram.com/dazedmnd">
+      <img src="https://img.shields.io/badge/dazedmind-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+   </a>
+   <a href="https://twitter.com/dazedmnd">
+      <img src="https://img.shields.io/badge/dazedmnd-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25" />
+   </a>
+   <a href="https://linkedin.com/in/johnallenvalena">
+      <img src="https://img.shields.io/badge/johnallenvalena-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+   </a>
+   <a href="https://facebook.com/troivalena">
+      <img src="https://img.shields.io/badge/John Allen-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" />
+   </a>
+</p>
