@@ -1,9 +1,10 @@
 <div align=center>
-  <h3 color=333333>Hi I am John Allen Troy Valena and an aspiring web developer.</3>
+  <h3 color=333333>Hi I am John Allen Troy Valena an aspiring web developer.</3>
 </div>
 
 <div align=center>
 <h2>My Stats</h2>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dazedmind&label=Profile%20views&color=333333&style=flat" alt="dazedmind" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&border_color=a5a072">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&border_color=a5a072&bg_color=111111">
