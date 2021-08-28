@@ -3,8 +3,7 @@
 </div>
 
 <div align=center>
-<h2>My Stats</h2>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dazedmind&label=Profile%20views&color=333333&style=flat" alt="dazedmind" /> </p>
+<h3>My Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=gruvbox&bg_color=111111&border_color=a5a072">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=gruvbox&include_all_commits=true&layout=compact&border_color=a5a072&bg_color=111111">
@@ -33,3 +32,6 @@
       <img src="https://img.shields.io/badge/John Allen-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" />
    </a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dazedmind&label=Profile%20views&color=333333&style=flat" alt="dazedmind" /> </p>
+
