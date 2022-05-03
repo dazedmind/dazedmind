@@ -19,16 +19,16 @@
 <h3 align="center">Get in touch with me!</h3>
 <p align="center">
    <a href="https://instagram.com/dazedmnd">
-      <img src="https://img.shields.io/badge/dazedmind-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/dazedmind-%23E4405F.svg?style=flat&logo=appveyorInstagram&logoColor=white" height="25" />
    </a>
    <a href="https://twitter.com/dazedmnd">
-      <img src="https://img.shields.io/badge/dazedmnd-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/dazedmnd-%231DA1F2.svg?style=flat&logo=appveyorTwitter&logoColor=white" height="25" />
    </a>
    <a href="https://linkedin.com/in/johnallenvalena">
-      <img src="https://img.shields.io/badge/johnallenvalena-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/johnallenvalena-%230077B5.svg?style=flat&logo=appveyorlinkedin&logoColor=white" height="25" />
    </a>
    <a href="https://facebook.com/troivalena">
-      <img src="https://img.shields.io/badge/John Allen-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/John Allen-%231877F2.svg?style=flat&logo=appveyorFacebook&logoColor=white" height="25" />
    </a>
 </p>
 
