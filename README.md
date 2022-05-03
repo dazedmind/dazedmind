@@ -1,5 +1,5 @@
 <div align=center>
-  <h3 color=333333>Hi I am John Allen Troy Valena an aspiring web developer.</3>
+  <h3 color=333333>Hi I am John Allen Troy Valeña, an aspiring web developer.</3>
 </div>
 
 <div align=center>
@@ -14,21 +14,23 @@
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d3a04d&labelColor=333333">
   <img src="https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=d3a04d&labelColor=333333">
   <img src="https://img.shields.io/badge/Editor-Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=d3a04d&labelColor=333333">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=d3a04d&labelColor=333333">
+
 </div>
 
 <h3 align="center">Get in touch with me!</h3>
 <p align="center">
    <a href="https://instagram.com/dazedmnd">
-      <img src="https://img.shields.io/badge/dazedmind-%23E4405F.svg?style=flat&logo=appveyorInstagram&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/dazedmind-informational?style=flat-square&logo=instagram&logoColor=white&color=333333&labelColor=dd2a7b">
    </a>
    <a href="https://twitter.com/dazedmnd">
-      <img src="https://img.shields.io/badge/dazedmnd-%231DA1F2.svg?style=flat&logo=appveyorTwitter&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/dazedmnd-informational?style=flat-square&logo=twitter&logoColor=white&color=333333&labelColor=00acee">
    </a>
    <a href="https://linkedin.com/in/johnallenvalena">
-      <img src="https://img.shields.io/badge/johnallenvalena-%230077B5.svg?style=flat&logo=appveyorlinkedin&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/John Allen Valeña-informational?style=flat-square&logo=linkedin&logoColor=white&color=333333&labelColor=0072b1">
    </a>
    <a href="https://facebook.com/troivalena">
-      <img src="https://img.shields.io/badge/John Allen-%231877F2.svg?style=flat&logo=appveyorFacebook&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/John Allen-informational?style=flat-square&logo=facebook&logoColor=white&color=333333&labelColor=4267B2">
    </a>
 </p>
 
