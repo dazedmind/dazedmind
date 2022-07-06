@@ -1,5 +1,5 @@
 <div align=center>
-  <h3 color=333333>Hi I am John Allen Troy Valeña, an aspiring web developer.</3>
+  <h3 color=333333>Hi I am John Allen Valeña, a software developer.</3>
 </div>
 
 <div align=center>
