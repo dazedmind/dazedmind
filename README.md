@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/dazedmnd-informational?style=flat-square&logo=twitter&logoColor=white&color=333333&labelColor=00acee">
    </a>
    <a href="https://linkedin.com/in/johnallenvalena">
-      <img src="https://img.shields.io/badge/John Allen Valeña-informational?style=flat-square&logo=linkedin&logoColor=white&color=333333&labelColor=0072b1">
+      <img src="https://img.shields.io/badge/John Allen-informational?style=flat-square&logo=linkedin&logoColor=white&color=333333&labelColor=0072b1">
    </a>
 </p>
 
