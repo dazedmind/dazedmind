@@ -8,26 +8,23 @@
 </h1>
 
 
-# My Stats 
+<h2> My Stats </h2>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=dazedmind&show_icons=true&hide=prs,issues&theme=ayu-mirage&bg_color=0d1117&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dazedmind&show_icons=true&theme=ayu-mirage&include_all_commits=true&layout=compact&hide_border=true&bg_color=0d1117">
 </div>
 
 
-# 🏆My Github Trophy
+<h2> My Github Trophy </h2>
 <div align=center>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dazedmind&theme=alduin&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
-<div align=center>
-  <h2>Skills</h2>
- </div>
  
+ <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,css,discord,figma,git,github,html,js,linux,netlify,ps,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,css,cpp,py,html,js,linux,netlify,ps,figma,vscode,discord,git,github" />
   </a>
 </p>
 
