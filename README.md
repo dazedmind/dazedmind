@@ -24,7 +24,7 @@
  <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,cpp,py,html,js,linux,netlify,ps,figma,vscode,discord,git,github" />
+    <img src="https://skillicons.dev/icons?i=bash,css,cpp,py,html,js,linux,netlify,ps,figma,vscode,git,github,tailwind,vite,react" />
   </a>
 </p>
 
