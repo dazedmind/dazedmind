@@ -17,7 +17,7 @@
 <h3 align="center">Get in touch with me!</h3>
 <p align="center">
 <a href = "https://www.linkedin.com/in/johnallenvalena/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/dazedmnd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/gtfo.allen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
